@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(37, 35, 35);
+    margin:0px;
+    border: 0px;
+    overflow-x: hidden;
+   
+}
+.container{
+    overflow: hidden;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.top img{
+    float: left;
+    position: relative;
+    left:5%;
+}
+
+.top ul{
+    
+    list-style: none;
+    display: inline;
+   
+    
+}
+.top a{
+
+    float: left;
+    font-size: 30px;
+    position: relative;
+    left :10%;
+    color: whitesmoke;
+    
+    
+}
+.main{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+.main1{
+    
+    position: relative;
+    left: 41%;
+    height: 400px;
+    width:100%;
+    
+    background-repeat: no-repeat;
+}
+.box1{
+    width:20%;
+    float:left;
+}
+.box2{
+    width:20%;
+    float: center;
+    position: absolute;
+    left: 40%;
+}
+.box3{
+    width:20%;
+    float:right;
+}
+
+
+.buttons{
+    position: fixed;
+    top:10%;
+    right: 0%;
+}
