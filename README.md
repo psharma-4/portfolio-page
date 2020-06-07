@@ -1,21 +1,24 @@
+
+ 
  # Read me Template 
                                            
   ## Portfolio Page
+ 
   
   
   ### Pranav Sharma
   ### Group 8
   
-  ### Milestones Achieced
-  1.About page(section)
-  2.Project page(section)
-  3.Skills Page(section)
-  4.OPtional Milestone: Preloader added
+   ### Milestones Achieced
+  1. About page(section)
+  2. Project page(section)
+  3. Skills Page(section)
+  4. OPtional Milestone: Preloader added
   
   ### Tech Stack
-  *HTML
-  *CSS
-  *Java Script
+  * HTML
+  * CSS
+  * Java Script
   
  ### Description
  The project consists of use of various functionalities of HTML and CSS. 
